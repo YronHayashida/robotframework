@@ -330,7 +330,6 @@ version directly:
 
 .. sourcecode:: bash
 
-    python -m pip install robotframework
     python3 -m pip install robotframework
 
 Installing pip for Jython
